@@ -4,31 +4,80 @@ public class Calculator
 {
     public static void Main()
     {
-        int Number = 0;
+        int Choise = 0;
+        int FN;
+        int SN;
 
-        while (Number == 0)
+        while (Choise == 0)
         {
-            Console.Write("Enter number: ");
-            try
+            Console.WriteLine("1. Add Number");
+            Console.WriteLine("2. Subtract Number");
+            Console.WriteLine("3. Multiply Number");
+            Console.WriteLine("4. Divide Number");
+            Console.WriteLine("\nPlease choose from 1-4");
+            Choise = Convert.ToInt32(Console.ReadLine());
+        }
+        try
+        {
+            switch (Choise)
             {
-                Number = Convert.ToInt32(Console.ReadLine());
-                if (Number < 1 || Number > 10)
-                {
-                    Console.WriteLine("Please enter number between 1 to 10");
-                    Number = 0;
-                }
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("Please enter numeric value number between 1 to 10");
+                case 1:
+                    Choise = 1;
+
+                    Console.WriteLine("Enter the First Number");
+                    FN = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Enter the Second Number");
+                    SN = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Total Equal = {0}", FN + SN);
+                    break;
+                case 2: Choise = 2;
+                    Console.WriteLine("Enter the First Number");
+                    FN = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Enter the Second Number");
+                    SN = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Total Equal = {0}", FN - SN);
+                    break;
+                case 3: Choise = 3;
+                    Console.WriteLine("Enter the First Number");
+                    FN = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Enter the Second Number");
+                    SN = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Total Equal = {0}", FN * SN);
+                    break;
+                case 4: Choise = 4;
+                    Console.WriteLine("Enter the First Number");
+                    FN = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Enter the Second Number");
+                    SN = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Total Equal = {0}", FN / SN);
+                    break;
+
+                default:
+                    break;
             }
         }
-
-        for (int i = 0; i <= 10; i++)
+        catch (Exception e)
         {
-            if (i == 11)
-                break;
-            Console.WriteLine("{0} x {1} = {2}", Number, i , i * Number);
+            if (Choise < 1 || Choise > 4)
+            {
+                Console.WriteLine("Please enter numeric value number between 1 to 4");
+            }
+            else
+            {
+                Console.WriteLine(e.Message);
+            }
         }
     }
+
+
+
+
 }

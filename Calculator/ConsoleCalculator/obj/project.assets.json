@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\J Moussa\\OneDrive\\CSharpProjects\\1. MyGitProjects\\Calculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\J Moussa\\Source\\Repos\\johnz22\\Calculator\\Calculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
       "projectName": "ConsoleCalculator",
-      "projectPath": "C:\\Users\\J Moussa\\OneDrive\\CSharpProjects\\1. MyGitProjects\\Calculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectPath": "C:\\Users\\J Moussa\\Source\\Repos\\johnz22\\Calculator\\Calculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
       "packagesPath": "C:\\Users\\J Moussa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\J Moussa\\OneDrive\\CSharpProjects\\1. MyGitProjects\\Calculator\\ConsoleCalculator\\obj\\",
+      "outputPath": "C:\\Users\\J Moussa\\Source\\Repos\\johnz22\\Calculator\\Calculator\\ConsoleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
