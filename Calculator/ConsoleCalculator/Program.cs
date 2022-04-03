@@ -9,15 +9,15 @@ public class Calculator
             Console.Title = "Calculator Menu";
             Console.WriteLine("Welcome, What Would you like to do");
             Console.WriteLine("");
-            Console.WriteLine("[1]. Add Number");
-            Console.WriteLine("[2]. Subtract Number");
-            Console.WriteLine("[3]. Multiply Number");
-            Console.WriteLine("[4]. Divide Number");
+            Console.WriteLine("[1] Add Number");
+            Console.WriteLine("[2] Multiply Number");
+            Console.WriteLine("[3] Divide Number");
+            Console.WriteLine("[4] Subtract Number");
             Console.WriteLine("[5] Exit");
             Console.WriteLine("");
             Console.WriteLine("Please choose from 1-5");
 
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
 
             if (input == "1")
             {
@@ -72,15 +72,27 @@ public class Calculator
     }
     static decimal Divide()
     {
+        Decimal Divide = 0;
+
         Console.WriteLine("Enter First Number");
         var FN = Decimal.Parse(Console.ReadLine());
 
         Console.WriteLine("Enter Second Nnumber");
         var SN = Decimal.Parse(Console.ReadLine());
 
-        var Divide = FN / SN;
-        Console.WriteLine($"Total = {Divide}");
-        return (Divide);
+        try
+        {
+            Divide = FN / SN;
+            Console.WriteLine($"Total = {Divide}");
+            return (Divide);
+        }
+        catch (DivideByZeroException)
+        {
+            Console.WriteLine("Can not divide by zero");
+            //throw;
+            return (Divide);
+        }
+
     }
     static decimal Subtract()
     {
