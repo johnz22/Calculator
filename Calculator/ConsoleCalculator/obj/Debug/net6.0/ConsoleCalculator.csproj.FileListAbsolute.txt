@@ -13,6 +13,7 @@ C:\Users\J Moussa\OneDrive\CSharpProjects\Calculator\ConsoleCalculator\obj\Debug
 C:\Users\J Moussa\OneDrive\CSharpProjects\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
 C:\Users\J Moussa\OneDrive\CSharpProjects\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
 C:\Users\J Moussa\OneDrive\CSharpProjects\Calculator\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll
+<<<<<<< HEAD
 C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.AssemblyReference.cache
 C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfoInputs.cache
@@ -28,3 +29,20 @@ C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\Calculator\ConsoleCal
 C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.pdb
 C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
 C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\Calculator\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll
+=======
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.exe
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.deps.json
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.runtimeconfig.json
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\refint\ConsoleCalculator.dll
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
+C:\Users\J Moussa\Source\Repos\johnz22\Calculator\Calculator\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll
+>>>>>>> 27bb06c3d816c8492982d0f00bde34b50e7c6608
