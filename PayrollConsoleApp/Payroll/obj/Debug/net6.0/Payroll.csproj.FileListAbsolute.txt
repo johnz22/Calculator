@@ -1,0 +1,15 @@
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\bin\Debug\net6.0\Payroll.exe
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\bin\Debug\net6.0\Payroll.deps.json
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\bin\Debug\net6.0\Payroll.runtimeconfig.json
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\bin\Debug\net6.0\Payroll.dll
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\bin\Debug\net6.0\Payroll.pdb
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\Payroll.csproj.AssemblyReference.cache
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\Payroll.AssemblyInfoInputs.cache
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\Payroll.AssemblyInfo.cs
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\Payroll.dll
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\refint\Payroll.dll
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\Payroll.pdb
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\Payroll.genruntimeconfig.cache
+C:\Users\J Moussa\OneDrive\CSharpProjects\1. MyGitProjects\PayrollConsoleApp\Payroll\obj\Debug\net6.0\ref\Payroll.dll
